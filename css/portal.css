@@ -15,7 +15,9 @@ html {
     background: #ff0;
 }
 
-h1 {
+h1.logo {
+    font-family: 'Tangerine', serif;
+        font-size: 48px;
     font-weight: normal;
     margin: auto;
     background: #fff;
@@ -111,4 +113,8 @@ footer {
         width: 100%;
     }
     
+}
+
+body{
+    background-color: tan;
 }
