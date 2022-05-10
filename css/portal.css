@@ -16,7 +16,7 @@ html {
 }
 
 h1.logo {
-    font-family: 'Tangerine', serif;
+    font-family:'Courier New', Courier, monospace, serif;
         font-size: 48px;
     font-weight: normal;
     margin: auto;
